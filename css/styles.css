@@ -44,7 +44,7 @@ h1 {
     left: 10px; 
     padding-left: 2em;
     width: 180px; 
-    height: auto; 
+    height: 100px; 
     z-index: 100; 
     border-radius: 7px;
 }
