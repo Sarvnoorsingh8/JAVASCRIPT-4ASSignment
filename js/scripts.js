@@ -1,4 +1,5 @@
 // scripts.js
+// https://openweathermap.org/api/statistics-api----Documentaion link
 // OpenweatherApi- https://openweathermap.org/api
 // Event listener to run the code when the DOM content is loaded
 document.addEventListener("DOMContentLoaded", function() {
